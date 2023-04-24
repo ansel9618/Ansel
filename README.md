@@ -27,21 +27,7 @@ Being a lifelong learner i love exploring new tech and implementing them in real
 I'm also a Software Trainer who has trained 200+ students in latest Tech in the market  :)
 
 
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-[![My Skills](https://skillicons.dev/icons?i=python,scala,flask,fastapi,postgres,mongodb,docker,kafka,redis,mysql,aws,azure,airflow&perline=3)](https://skillicons.dev)
-
-
-
-
-### :IDE :
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-
-
-
-## Open Source DE Tools
+## Open Source DE Tools and Containers
 <table>
   
   <tr>
@@ -72,6 +58,10 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
     <td align="center" width="96">
         <img src="https://github.com/ansel9618/icons/blob/main/Open_source_tool/airflow-removebg-preview.png" width="65" height="65"alt="Airflow" />
       <br>Airflow
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/ansel9618/icons/blob/main/Containerization/docker-removebg-preview.png" width="65" height="65"alt="Docker" />
+      <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -115,7 +105,7 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
         <img src="https://github.com/ansel9618/icons/blob/main/Api_Framework/streamlit-removebg-preview.png" width="48" height="48" alt="Streamlit" />
       <br>Streamlit
     </td> 
-    
+  </tr> 
 <tr>
     <td>
         &nbsp;
@@ -150,6 +140,31 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
   </tr>
   </table>
   
+  
+  ## Visualization
+ <table> 
+ <tr>
+ <td align="center" width="96">
+        <img src="https://github.com/ansel9618/icons/blob/main/visualization/matplotlib-removebg-preview.png" width="48" height="48" alt="Matplotlib" />
+      <br>Matplotlib
+    </td>
+     <td align="center" width="96">
+        <img src="https://github.com/ansel9618/icons/blob/main/visualization/seaborn-removebg-preview.png" width="48" height="48" alt="Seaborn" />
+      <br>Seaborn
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/ansel9618/icons/blob/main/visualization/powerbi.png" width="48" height="48" alt="PowerBI" />
+      <br>PowerBI
+    </td>
+ </tr>
+  <tr>
+    <td>
+        &nbsp;
+        <!--you just need a space in a row-->
+    </td>
+</tr>
+</table> 
+  
  ## IDE 
  <table> 
  <tr>
@@ -165,12 +180,40 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
         <img src="https://github.com/ansel9618/icons/blob/main/IDE/vscode-removebg-preview.png" width="48" height="48" alt="VScode" />
       <br>VSCode
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://github.com/ansel9618/icons/blob/main/IDE/jupyter_notebook-removebg-preview.png" width="48" height="48" alt="JupyterNotebook" />
       <br>JupyterNotebook
-    
+    </td>
  </tr>
+  <tr>
+    <td>
+        &nbsp;
+        <!--you just need a space in a row-->
+    </td>
+</tr>
 </table>
+
+
+ ## OS
+ <table> 
+ <tr>
+ <td align="center" width="96">
+        <img src="https://github.com/ansel9618/icons/blob/main/OS/windows-removebg-preview.png" width="48" height="48" alt="Windows" />
+      <br>Windows
+    </td>
+     <td align="center" width="96">
+        <img src="https://github.com/ansel9618/icons/blob/main/OS/linux-removebg-preview.png" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+ </tr>
+  <tr>
+    <td>
+        &nbsp;
+        <!--you just need a space in a row-->
+    </td>
+</tr>
+</table>
+
 
 
 
