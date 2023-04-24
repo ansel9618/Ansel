@@ -52,6 +52,8 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### :IDE :
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,&perline=3)](https://skillicons.dev)
 
 
 
