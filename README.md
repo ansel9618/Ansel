@@ -57,8 +57,9 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
 
 
 
-
+## Open Source DE Tools
 <table>
+  
   <tr>
   <td align="center" width="96">
         <img src="https://github.com/ansel9618/icons/blob/main/Open_source_tool/Hadoop-removebg-preview.png" width="65" height="65"alt="Hadoop" />
@@ -95,8 +96,17 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
       <br>Firebase
     </td>
   </tr>
-  <br>
-  </br>
+  
+  <tr>
+    <td>
+        &nbsp;
+        <!--you just need a space in a row-->
+    </td>
+</tr>
+</table>
+  
+  ## Rest API Frameworks
+  <table>
   <tr>
   <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="Git" />
