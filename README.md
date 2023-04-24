@@ -50,24 +50,32 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
       <br>Hadoop
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="65" height="65"alt="Dart" />
-      <br>Dart
+        <img src="https://github.com/ansel9618/icons/blob/main/Open_source_tool/hbase-removebg-preview.png" width="65" height="65"alt="Hbase" />
+      <br>Hbase
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="65" height="65"alt="Dart" />
-      <br>Dart
+        <img src="https://github.com/ansel9618/icons/blob/main/Open_source_tool/hive-removebg-preview.png" width="65" height="65"alt="Hive" />
+      <br>Hive
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="65" height="65"alt="Dart" />
-      <br>Dart
+        <img src="https://github.com/ansel9618/icons/blob/main/Open_source_tool/sqoop-removebg-preview.png" width="65" height="65"alt="Sqoop" />
+      <br>Sqoop
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="65" height="65"alt="Dart" />
-      <br>Dart
+        <img src="https://github.com/ansel9618/icons/blob/main/Open_source_tool/kafka.png" width="65" height="65"alt="Kafka" />
+      <br>Kafka
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="65" height="65"alt="Dart" />
-      <br>Dart
+        <img src="https://github.com/ansel9618/icons/blob/main/Open_source_tool/kafka.png" width="65" height="65"alt="Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/ansel9618/icons/blob/main/Open_source_tool/pyspark-removebg-preview.png" width="65" height="65"alt="Pyspark" />
+      <br>Pyspark
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/ansel9618/icons/blob/main/Open_source_tool/airflow-removebg-preview.png" width="65" height="65"alt="Airflow" />
+      <br>Airflow
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -76,24 +84,8 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>Rest
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
-      <br>Firebase
     </td>
   </tr>
   <tr>
