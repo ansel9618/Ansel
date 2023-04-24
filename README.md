@@ -66,10 +66,6 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
       <br>Kafka
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/ansel9618/icons/blob/main/Open_source_tool/kafka.png" width="65" height="65"alt="Kafka" />
-      <br>Kafka
-    </td>
-    <td align="center" width="96">
         <img src="https://github.com/ansel9618/icons/blob/main/Open_source_tool/pyspark-removebg-preview.png" width="65" height="65"alt="Pyspark" />
       <br>Pyspark
     </td>
@@ -128,36 +124,34 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
 </tr>
 </table>
 
+ ## Version Control
  <table>
     <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
+        <img src="https://github.com/ansel9618/icons/blob/main/Version_Control/github.png" width="48" height="48" alt="GitHub" />
       <br>Github
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="HTML" />
-      <br>Ruby
+        <img src="https://github.com/ansel9618/icons/blob/main/Version_Control/gitlab-removebg-preview.png" width="48" height="48" alt="Gitlab" />
+      <br>Gitlab
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
-      <br>C++
+        <img src="https://github.com/ansel9618/icons/blob/main/Version_Control/awscodecommit-removebg-preview.png" alt="icon" width="48" height="48" />
+      <br>AwsCodeCommit
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
+   <tr>
+    <td>
+        &nbsp;
+        <!--you just need a space in a row-->
     </td>
   </tr>
+  </table>
+  
+  
+ <table> 
  <tr>
  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Postman" />
