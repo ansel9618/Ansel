@@ -37,7 +37,7 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
 
 
 ### :IDE :
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 
 
@@ -96,7 +96,6 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
       <br>Firebase
     </td>
   </tr>
-  
   <tr>
     <td>
         &nbsp;
@@ -111,7 +110,29 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
   <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="Git" />
       <br>FastAPI
+    </td>   
+  <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td> 
+  <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
+      <br>Postman
+    </td> 
+  <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=swagger" width="48" height="48" alt="Swagger" />
+      <br>Swagger
+    </td> 
+    
+ <tr>
+    <td>
+        &nbsp;
+        <!--you just need a space in a row-->
     </td>
+</tr>
+</table>
+
+ <table>
     <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
