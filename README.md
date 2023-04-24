@@ -1,5 +1,8 @@
 ### <h1 align="center">Hi, I'm Ansel Janson  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ansel-janson-0791/">
@@ -22,104 +25,30 @@ I'm a Developer who has real world experience building software. My Intrests are
 Being a lifelong learner i love exploring new tech and implementing them in real world scenarios :)
 
 
-## 🧰 My Tech Toolbox 
+---
 
-<table>
-  <tr>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="65" height="65"alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=scala" width="65" height="65"alt="Scala" />
-      <br>scala
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="65" height="65"alt="Flask" />
-      <br>flask
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rest
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
-      <br>Firebase
-    </td>
-  </tr>
-  <tr>
-  <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="Git" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
-      <br>Github
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="HTML" />
-      <br>Ruby
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
-      <br>C++
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-  </tr>
- <tr>
- <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Postman" />
-      <br>Node
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="tailwind" />
-      <br>Php
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="tailwind" />
-      <br>C
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
-      <br>MySQL
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
- </tr>
-</table>
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="Scala" alt="Scala" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+
+
 
 ## 📊 My Github Stats
 
