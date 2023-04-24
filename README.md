@@ -27,6 +27,31 @@ Being a lifelong learner i love exploring new tech and implementing them in real
 I'm also a Software Trainer who has trained 200+ students in latest Tech in the market  :)
 
 
+
+ ## Language
+ <table> 
+ <tr>
+  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    
+  <td align="center" width="96">
+        <img src="https://github.com/ansel9618/icons/blob/main/Open_source_tool/scala.png" width="48" height="48" alt="Scala" />
+      <br>Scala
+    </td>
+ </tr>
+  <tr>
+    <td>
+        &nbsp;
+        <!--you just need a space in a row-->
+    </td>
+</tr>
+</table>
+
+
 ## Open Source DE Tools and Containers
 <table>
   
@@ -36,7 +61,7 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
       <br>Hadoop
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/ansel9618/icons/blob/main/Open_source_tool/hbase-removebg-preview.png" width="65" height="65"alt="Hbase" />
+        <img src="https://github.com/ansel9618/icons/blob/main/Open_source_tool/hbase.png" width="65" height="65"alt="Hbase" />
       <br>Hbase
     </td>
     <td align="center" width="96">
@@ -63,11 +88,6 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
         <img src="https://github.com/ansel9618/icons/blob/main/Containerization/docker-removebg-preview.png" width="65" height="65"alt="Docker" />
       <br>Docker
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
