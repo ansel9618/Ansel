@@ -92,8 +92,8 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
 </tr>
 </table>
   
-  ## Rest API and App Frameworks
-  <table>
+## Rest API and App Frameworks
+<table>
   <tr>
   <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="Git" />
@@ -116,7 +116,7 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
       <br>Streamlit
     </td> 
     
- <tr>
+<tr>
     <td>
         &nbsp;
         <!--you just need a space in a row-->
@@ -150,33 +150,25 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
   </tr>
   </table>
   
-  
+ ## IDE 
  <table> 
  <tr>
  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Postman" />
-      <br>Node
+        <img src="https://github.com/ansel9618/icons/blob/main/IDE/pycharm-removebg-preview.png" width="48" height="48" alt="Pycharm" />
+      <br>Pycharm
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="tailwind" />
-      <br>Php
+        <img src="https://github.com/ansel9618/icons/blob/main/IDE/Intellij-removebg-preview.png" width="48" height="48" alt="Intellij" />
+      <br>Intellij
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="tailwind" />
-      <br>C
+        <img src="https://github.com/ansel9618/icons/blob/main/IDE/vscode-removebg-preview.png" width="48" height="48" alt="VScode" />
+      <br>VSCode
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
-      <br>MySQL
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
+        <img src="https://github.com/ansel9618/icons/blob/main/IDE/jupyter_notebook-removebg-preview.png" width="48" height="48" alt="JupyterNotebook" />
+      <br>JupyterNotebook
+    
  </tr>
 </table>
 
