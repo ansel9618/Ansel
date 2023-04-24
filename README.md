@@ -1,9 +1,17 @@
 ### <h1 align="center">Hi, I'm Ansel Janson</h1>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="100"/>
+</div>
+
+
+
 [<img align="center" height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][Linkedin]
 [<img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 ## 🙋‍♂️ About Me
 
-I'm a passionate Full Stack Flutter and Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
+I'm a Developer who has real world experience building software. My Intrests are in DataEngineering,Datascience & Backend Engineering.
+Being a lifelong learner i love exploring new tech and implementing them in real world scenarios :)
 
 
 ## 🧰 My Tech Toolbox 
