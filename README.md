@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi, I'm Ansel Janson</h1>
-[<img align="center" height="30" src="https://www.linkedin.com/in/ansel-janson-0791/" />][LinkedIn]
+[<img align="center" height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][https://www.linkedin.com/in/ansel-janson-0791/]
 [<img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 ## 🙋‍♂️ About Me
 
