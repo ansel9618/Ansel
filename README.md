@@ -31,7 +31,7 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=python,scala,flask,fastapi,postgres,mongodb,docker,kafka,redis,mysql,aws,azure&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,scala,flask,fastapi,postgres,mongodb,docker,kafka,redis,mysql,aws,azure,airflow&perline=3)](https://skillicons.dev)
 
 
 
