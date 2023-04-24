@@ -96,7 +96,7 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
 </tr>
 </table>
   
-  ## Rest API Frameworks
+  ## Rest API and App Frameworks
   <table>
   <tr>
   <td align="center" width="96"> 
@@ -112,8 +112,12 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
       <br>Postman
     </td> 
   <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=swagger" width="48" height="48" alt="Swagger" />
+        <img src="https://github.com/ansel9618/icons/blob/main/Api_Framework/swagger-removebg-preview.png" width="48" height="48" alt="Swagger" />
       <br>Swagger
+    </td> 
+  <td align="center" width="96"> 
+        <img src="https://github.com/ansel9618/icons/blob/main/Api_Framework/streamlit-removebg-preview.png" width="48" height="48" alt="Streamlit" />
+      <br>Streamlit
     </td> 
     
  <tr>
