@@ -22,7 +22,9 @@
 ## 🙋‍♂️ About Me
 
 I'm a Developer who has real world experience building software. My Intrests are in DataEngineering,Datascience & Backend Engineering.
-Being a lifelong learner i love exploring new tech and implementing them in real world scenarios :)
+Being a lifelong learner i love exploring new tech and implementing them in real world scenarios 
+
+I'm also a Software Trainer who has trained 200+ students in latest Tech in the market  :)
 
 
 ---
