@@ -243,11 +243,11 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
   
 ## ✨ Top Languages Card
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-aiymen&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansel9618&layout=compact&theme=tokyonight)
 
 ## 🔥 Streak Stats
 
-![streaks](https://github-readme-streak-stats.herokuapp.com/?user=i-aiymen&theme=monokai-metallian&hide_border=true)
+![streaks](https://github-readme-streak-stats.herokuapp.com/?user=ansel9618&theme=monokai-metallian&hide_border=true)
 
 [linkedin]: https://www.linkedin.com/in/aiymenlatheef/
 [gmail]: mailto:aiymenlatheef03@gmail.com
