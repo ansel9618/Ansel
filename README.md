@@ -239,7 +239,7 @@ I'm also a Software Trainer who has trained 200+ students in latest Tech in the 
 
 ## 📊 My Github Stats
 
-  ![Muhammed Ayimen's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-aiymen&count_private=true&show_icons=true&theme=radical)
+  ![Muhammed Ayimen's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ansel9618&count_private=true&show_icons=true&theme=radical)
   
 ## ✨ Top Languages Card
 
